@@ -1,16 +1,45 @@
-## Hi there 👋
+# Cyril (0xcyrildev)
 
-<!--
-**0xCyrildev/0xcyrildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Web3 security researcher — **Sui Move & Solidity/EVM**.
+Operating as **Invariant / Cyrilsec**.
 
-Here are some ideas to get you started:
+I audit smart contracts and build the tooling I wish existed to do it faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I do
+Smart contract security audits across Sui Move and Solidity/EVM. Past engagements have surfaced Critical/High findings across DeFi and NFT protocols — details under NDA, references available on request.
+
+---
+
+### Tools I'm building
+
+**[sui-invariant-fuzzer](https://github.com/0xcyrildev/sui-invariant-fuzzer)**
+Property-based fuzzer for Sui Move packages, written in Rust. Generic type support, boundary-biased input generation, delta-debugging shrinker for minimal repros. Validated against real bugs (caught a silent-withdraw vuln, shrank to a 2-call repro) and checked for false positives against clean packages.
+
+**[sui-sec](https://github.com/0xcyrildev/sui-sec)**
+Static bytecode analyzer for Sui Move — automated checks for unsafe entry points, premature UID deletion, unchecked transfer recipients, and more.
+
+**[necropsy](https://github.com/0xcyrildev/necropsy)**
+Post-exploit forensics CLI for EVM. Reconstructs call trees and net token flow from a transaction digest. Validated against the real Euler Finance exploit — correctly identified the attacker sink address.
+
+**[flank](https://github.com/0xcyrildev/flank)**
+Go-based Web3 attack-surface recon tool for pre-audit and bug bounty workflows (Immunefi, Sherlock).
+
+*Status note: these are active, working tools, not finished products — I build in the open and note what's incomplete in each repo.*
+
+---
+
+### Stack
+`Rust` `Go` `Solidity` `Move` `Python` `Java` `C` `Foundry` `Sui CLI`
+
+---
+
+### Off the clock
+Osamu Dazai — the author and, unfortunately, the Bungo Stray Dogs character too. If you know, you know.
+
+Anime, basketball, and gaming fill the rest of my time, and honestly all three feed the work. Anime and games train the same pattern-recognition and "what's the system actually doing" instinct I use reading bytecode. Basketball is the discipline side — reps you don't feel like doing, done anyway, because that's what separates finding the bug from missing it.
+
+### Find me
+X : @zeroxcyril
+Telegram : @zeroxCyril
