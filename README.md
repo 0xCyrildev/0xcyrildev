@@ -8,7 +8,8 @@ I audit smart contracts and build the tooling I wish existed to do it faster.
 ---
 
 ### What I do
-Smart contract security audits across Sui Move and Solidity/EVM. Past engagements have surfaced Critical/High findings across DeFi and NFT protocols — details under NDA, references available on request.
+Smart contract security audits across Sui Move and Solidity/EVM. I develop tools on the aforementioned chains and currently expanding to more.
+I break stuff to make it better
 
 ---
 
