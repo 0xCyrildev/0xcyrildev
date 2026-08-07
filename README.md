@@ -1,4 +1,4 @@
-# Cyril (0xcyrildev)
+# Cyril
 
 Independent Web3 security researcher for **Sui Move & Solidity/EVM**.
 I'm a superhero.
