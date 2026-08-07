@@ -1,7 +1,7 @@
 # Cyril (0xcyrildev)
 
-Independent Web3 security researcher — **Sui Move & Solidity/EVM**.
-Operating as **Invariant / Cyrilsec**.
+Independent Web3 security researcher for **Sui Move & Solidity/EVM**.
+I'm a superhero.
 
 I audit smart contracts and build the tooling I wish existed to do it faster.
 
@@ -36,7 +36,7 @@ Go-based Web3 attack-surface recon tool for pre-audit and bug bounty workflows (
 ---
 
 ### Off the clock
-Osamu Dazai — the author and, unfortunately, the Bungo Stray Dogs character too. If you know, you know.
+Osamu Dazai, we all know the author and, unfortunately, the Bungo Stray Dogs character too. If you know, you know.
 
 Anime, basketball, and gaming fill the rest of my time, and honestly all three feed the work. Anime and games train the same pattern-recognition and "what's the system actually doing" instinct I use reading bytecode. Basketball is the discipline side — reps you don't feel like doing, done anyway, because that's what separates finding the bug from missing it.
 
