@@ -32,7 +32,7 @@ Go-based Web3 attack-surface recon tool for pre-audit and bug bounty workflows (
 ---
 
 ### Stack
-`Rust` `Go` `Solidity` `Move` `Python` `Java` `C` `Foundry` `Sui CLI`
+`Rust` `Go` `Solidity` `Move` `Python` `Java` `C` `Foundry` `Sui CLI` `Typescript`
 
 ---
 
