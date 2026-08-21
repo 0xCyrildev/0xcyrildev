@@ -2,11 +2,11 @@
 
 I build tools to answer questions I can't answer by just reading code.
 
-Security work, for me, isn't a checklist — it's modeling a system until you understand its invariants well enough to know exactly where they'll break. Most of what's in this profile exists because I hit a wall doing research manually and decided to write something that wouldn't hit that wall again.
+Security work, for me, isn't a checklist, it's modeling a system until you understand its invariants well enough to know exactly where they'll break. Most of what's in this profile exists because I hit a wall doing research manually and decided to write something that wouldn't hit that wall again.
 
 ## How I think about problems
 
-Model the system first — state, ownership, trust boundaries, who can call what and under what assumption. The checklist bugs are the easy 80%. The interesting bugs live in composed attack chains: things that are individually fine but break when chained across transactions, across modules, across chains. I'd rather spend an extra hour understanding *why* something is safe than assume it is because nothing on a checklist flagged it.
+Model the system first. Analyse it's state, ownership, trust boundaries, who can call what and under what assumption. The checklist bugs are the easy 80%. The interesting bugs live in composed attack chains: things that are individually fine but break when chained across transactions, across modules, across chains. I'd rather spend an extra hour understanding *why* something is safe than assume it is because nothing on a checklist flagged it.
 
 That mindset is basically what every tool below is trying to encode.
 
@@ -22,7 +22,7 @@ That mindset is basically what every tool below is trying to encode.
 
 ## What I'm curious about right now
 
-Cross-chain systems that decouple signing from settlement — threshold-signature architectures, MPC coordination, and where the failure modes hide when a system doesn't have single-chain liveness assumptions to lean on. It's the same question as everything else I work on: what does this system assume is always true, and what happens the one time it isn't.
+Cross-chain systems that decouple signing from settlement, threshold-signature architectures, MPC coordination, and where the failure modes hide when a system doesn't have single-chain liveness assumptions to lean on. It's the same question as everything else I work on: what does this system assume is always true, and what happens the one time it isn't.
 
 ---
 
