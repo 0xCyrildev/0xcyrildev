@@ -1,4 +1,4 @@
-# Cyril // 0xCyrildev
+# Cyril
 
 I build tools to answer questions I can't answer by just reading code.
 
