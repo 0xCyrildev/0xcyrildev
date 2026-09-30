@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="232" role="img" viewBox="0 0 760 232" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace'><title>How a problem gets broken down</title><rect width="760" height="232" rx="10" fill="#0B0F0C" stroke="#223027"/>
+<line x1="16" y1="38" x2="16" y2="194" stroke="#223027"/><rect x="11" y="32" width="11" height="11" fill="#0B0F0C" stroke="#7CFF41"/>
+<text x="38" y="43" font-size="13" fill="#7CFF41" text-anchor="start">01</text>
+<text x="68" y="43" font-size="15" fill="#D7E3D8" text-anchor="start" font-weight="bold">MODEL</text>
+<text x="181.7" y="43" font-size="12.5" fill="#6B7F70" text-anchor="start">state, ownership, trust boundaries — who can call what, assuming what</text>
+<rect x="11" y="84" width="11" height="11" fill="#0B0F0C" stroke="#223027"/>
+<text x="38" y="95" font-size="13" fill="#7CFF41" text-anchor="start">02</text>
+<text x="68" y="95" font-size="15" fill="#D7E3D8" text-anchor="start" font-weight="bold">INVARIANT</text>
+<text x="181.7" y="95" font-size="12.5" fill="#6B7F70" text-anchor="start">the checklist bugs are the easy 80%; find the rule that must hold</text>
+<rect x="11" y="136" width="11" height="11" fill="#0B0F0C" stroke="#223027"/>
+<text x="38" y="147" font-size="13" fill="#7CFF41" text-anchor="start">03</text>
+<text x="68" y="147" font-size="15" fill="#D7E3D8" text-anchor="start" font-weight="bold">COMPOSE</text>
+<text x="181.7" y="147" font-size="12.5" fill="#6B7F70" text-anchor="start">the interesting ones are individually fine and break when chained</text>
+<rect x="11" y="188" width="11" height="11" fill="#0B0F0C" stroke="#223027"/>
+<text x="38" y="199" font-size="13" fill="#7CFF41" text-anchor="start">04</text>
+<text x="68" y="199" font-size="15" fill="#D7E3D8" text-anchor="start" font-weight="bold">PROVE</text>
+<text x="181.7" y="199" font-size="12.5" fill="#6B7F70" text-anchor="start">a repro, or it is a hypothesis — nothing calls itself confirmed</text>
+</svg>

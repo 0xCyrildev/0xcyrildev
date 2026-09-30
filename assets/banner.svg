@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="254" role="img" viewBox="0 0 760 254" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace'><title>Cyril — whoami</title><rect width="760" height="254" rx="10" fill="#0B0F0C" stroke="#223027"/>
+<path d="M0 10a10 10 0 0 1 10-10h740a10 10 0 0 1 10 10v20H0Z" fill="#0E1410"/><line x1="0" y1="30" x2="760" y2="30" stroke="#223027"/><text x="20" y="20" font-size="12" fill="#6B7F70" text-anchor="start">cyril@mainnet — zsh</text>
+<rect x="730" y="12" width="8" height="8" fill="none" stroke="#223027"/>
+<rect x="714" y="12" width="8" height="8" fill="none" stroke="#223027"/>
+<rect x="698" y="12" width="8" height="8" fill="none" stroke="#223027"/>
+<text x="20" y="56" font-size="15" fill="#7CFF41" text-anchor="start">cyril@mainnet</text>
+<text x="148.9" y="56" font-size="15" fill="#6B7F70" text-anchor="start">~ %</text>
+<text x="193.4" y="56" font-size="15" fill="#D7E3D8" text-anchor="start">whoami</text>
+<text x="34" y="81" font-size="14" fill="#6B7F70" text-anchor="start">i build tools to answer questions i can't answer by reading code</text>
+<text x="20" y="122" font-size="15" fill="#7CFF41" text-anchor="start">cyril@mainnet</text>
+<text x="148.9" y="122" font-size="15" fill="#6B7F70" text-anchor="start">~ %</text>
+<text x="193.4" y="122" font-size="15" fill="#D7E3D8" text-anchor="start">cat focus.txt</text>
+<text x="34" y="147" font-size="14" fill="#6B7F70" text-anchor="start">sui move · dynamic analysis · execution traces · dWallet settlement</text>
+<text x="20" y="188" font-size="15" fill="#7CFF41" text-anchor="start">cyril@mainnet</text>
+<text x="148.9" y="188" font-size="15" fill="#6B7F70" text-anchor="start">~ %</text>
+<text x="193.4" y="188" font-size="15" fill="#D7E3D8" text-anchor="start">./chase analyze 2UkzDTPuKXLX3JeWKXR7eUvpBqCt…</text>
+<text x="34" y="213" font-size="14" fill="#FFB454" text-anchor="start">[LOW]</text>
+<text x="87.4" y="213" font-size="14" fill="#D7E3D8" text-anchor="start">UNANNOUNCED_OBJECT_CHANGE · real output · mainnet · 2026-09-30</text>
+<text x="20" y="238" font-size="15" fill="#7CFF41" text-anchor="start">cyril@mainnet</text>
+<text x="148.9" y="238" font-size="15" fill="#6B7F70" text-anchor="start">~ %</text>
+<rect x="193.4" y="225" width="9" height="16" fill="#7CFF41"/></svg>

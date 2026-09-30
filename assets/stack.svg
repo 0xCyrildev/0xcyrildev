@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="92" role="img" viewBox="0 0 760 92" font-family='ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace'><title>Languages and tooling</title><rect width="760" height="92" rx="10" fill="#0B0F0C" stroke="#223027"/>
+<rect x="10" y="12" width="60" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="40" y="32" font-size="13.5" fill="#D7E3D8" text-anchor="middle">Rust</text>
+<rect x="79" y="12" width="60" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="109" y="32" font-size="13.5" fill="#D7E3D8" text-anchor="middle">Move</text>
+<rect x="148" y="12" width="93" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="194" y="32" font-size="13.5" fill="#D7E3D8" text-anchor="middle">Solidity</text>
+<rect x="250" y="12" width="110" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="305" y="32" font-size="13.5" fill="#D7E3D8" text-anchor="middle">TypeScript</text>
+<rect x="369" y="12" width="43" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="390" y="32" font-size="13.5" fill="#D7E3D8" text-anchor="middle">Go</text>
+<rect x="10" y="50" width="76" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="48" y="70" font-size="13.5" fill="#D7E3D8" text-anchor="middle">Python</text>
+<rect x="95" y="50" width="34" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="112" y="70" font-size="13.5" fill="#D7E3D8" text-anchor="middle">C</text>
+<rect x="138" y="50" width="60" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="168" y="70" font-size="13.5" fill="#D7E3D8" text-anchor="middle">Java</text>
+<rect x="207" y="50" width="85" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="249" y="70" font-size="13.5" fill="#D7E3D8" text-anchor="middle">Foundry</text>
+<rect x="301" y="50" width="85" height="30" rx="15" fill="none" stroke="#223027"/>
+<text x="343" y="70" font-size="13.5" fill="#D7E3D8" text-anchor="middle">Sui CLI</text>
+</svg>
